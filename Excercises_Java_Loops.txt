@@ -1,0 +1,39 @@
+1)WAP to check given number is one or two or three or four digit number else
+print its a five digit number?
+
+
+2)Write a Java program to determine whether an input number is an even number
+   if else
+
+3)Take three numbers and print the greatest number
+
+4):Write a Java program by using two for loops to produce the output shown below:
+*******
+******
+*****
+****
+***
+**
+*
+5):
+Write a Java program by using three for loops to print the following pattern:
+
+1******
+
+12*****
+
+123****
+
+1234***
+
+12345**
+
+123456*
+
+1234567
+
+6):Write a program in Java to display the n terms of odd natural number and their
+ sum
+
+7)Java Program to check whether a char is vowel or Consonant using Switch Case
+8)Java Program to make a Simple Calculator using Switch Case
